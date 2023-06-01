@@ -14,5 +14,3 @@
   </ol>
  </ul>
  <h2>Add MONGO_URI in .env file</h2>
- <h1>Glimpse</h1>
- 
