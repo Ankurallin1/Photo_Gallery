@@ -10,7 +10,7 @@ function App() {
 
   useEffect(() => {
     axios
-      .get("http://localhost:5000/api/get")
+      .get("https://photo-j7r5.onrender.com/api/get")
       .then((res) => {
         console.log(res.data);
         setPhotos(res.data);
